@@ -1,4 +1,4 @@
-## Currently. All my repo's are private!
+## welcome!
 Currently. I am working on TWTDiscord!
 It will be open source sooner or later
 
