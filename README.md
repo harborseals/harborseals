@@ -4,7 +4,6 @@ It will be open source sooner or later
 
 ![COmmits](https://zyrn.wtf/i/zj0ai.png)
 
-It will be open source soon.
 <br />
 <br />
 <br />
