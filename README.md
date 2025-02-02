@@ -1,8 +1,4 @@
 ## welcome!
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=harborseals&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 # check out my write ups!
 
 | Name                                                                 | Description                                                                                   |
