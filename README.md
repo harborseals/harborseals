@@ -22,4 +22,4 @@ SOL - ``HEjht32pxzrEhu7hDaDBDQhSc9PzN6ZyrTPJ1o5AYzhc``
 
 ---
 
-  [![HitCount](https://hits.dwyl.com/harborseals/harborseals.svg?style=flat&show=unique)](http://hits.dwyl.com/harborseals/harborseals)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharborseals%2Fharborseals&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
