@@ -8,29 +8,18 @@
 ---
 
 ## Crypto Donations
-Thank you for your support!
 If you find my work helpful and would like to support me, feel free to donate via any of the following addresses:
 
-Monero (XMR) Address:
-```plaintext
-87nRx5ZRf6AECbV1on9VG53hkZ7kARpiJCys3SPAUCDUCtiPunZGJezV6rWqvj96He1pzqMYfUwpjR4fU1tVvbWCHHXvbtS
-```
-Bitcoin (BTC) Address:
-```plaintext
-bc1qcfuk0u4xjd92katqvckxj8u59jujxndghq65we
-```
-Ethereum (ETH) Address:
-```plaintext
-0xFc6515DA788e671B61136d5316d2Fb33F89A0893
-```
-Litecoin (LTC) Address:
-```plaintext
-LeMgNRmHVHnMZ3yAs9FNKVahspHmQ4kgmU
-```
-Solana (SOL) Address:
-```plaintext
-HEjht32pxzrEhu7hDaDBDQhSc9PzN6ZyrTPJ1o5AYzhc
-```
+XMR - ``87nRx5ZRf6AECbV1on9VG53hkZ7kARpiJCys3SPAUCDUCtiPunZGJezV6rWqvj96He1pzqMYfUwpjR4fU1tVvbWCHHXvbtS``
+
+BTC - ``bc1qcfuk0u4xjd92katqvckxj8u59jujxndghq65we``
+
+ETH - ``0xFc6515DA788e671B61136d5316d2Fb33F89A0893``
+
+LTC - ``LeMgNRmHVHnMZ3yAs9FNKVahspHmQ4kgmU``
+
+SOL - ``HEjht32pxzrEhu7hDaDBDQhSc9PzN6ZyrTPJ1o5AYzhc``
+
 ---
 
 
