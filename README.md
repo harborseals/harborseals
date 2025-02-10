@@ -22,4 +22,5 @@ SOL - ``HEjht32pxzrEhu7hDaDBDQhSc9PzN6ZyrTPJ1o5AYzhc``
 
 ---
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharborseals%2Fharborseals&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Chicago Time](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftimeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAmerica%2FChicago&query=time&label=Chicago%20Time%3A&labelColor=grey&color=darkgrey) ![UTC Time](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftimeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DEurope%2FLondon&query=time&label=UTC%20Time%3A&labelColor=grey&color=white) [![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharborseals%2Fharborseals&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+
